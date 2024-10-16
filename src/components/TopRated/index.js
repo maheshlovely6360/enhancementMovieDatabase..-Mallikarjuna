@@ -61,6 +61,7 @@ class TopRated extends React.Component {
 
     return (
       <>
+        {' '}
         <NavBar />
         <div className="route-page-body">
           {isLoading
